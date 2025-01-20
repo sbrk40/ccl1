@@ -5,3 +5,5 @@
 16.1 : I made a new background and wall objects to fit the vibe of the game to be more dark. I added a bow to collect and started making new animations for the enemy and player.
 
 17.1 : Today I implemented a shooting mechanic.
+
+20.1 : Today I placed the enemys random on the map. The shooting mechanic also works now and the enemy has to be shot 3 times to be defeated.
