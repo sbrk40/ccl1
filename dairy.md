@@ -7,3 +7,5 @@
 17.1 : Today I implemented a shooting mechanic.
 
 20.1 : Today I placed the enemys random on the map. The shooting mechanic also works now and the enemy has to be shot 3 times to be defeated.
+
+21.1 : I implemented a camera that follows the player and added new animations facing different directions.
