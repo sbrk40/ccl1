@@ -11,3 +11,7 @@
 21.1 : I implemented a camera that follows the player and added new animations facing different directions.
 
 22.1. : The enemys move into random directions now and have a new animation. I implemented a start and game over screen.
+
+23.1 : I finished the implementation of my game. All screens are added and working and the health bar also works.
+
+24.1. : On the last day we presented our games and had a little game jam where we could try the games of the others.
