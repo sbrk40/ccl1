@@ -1,0 +1,123 @@
+
+
+#gameContainer {
+    position: absolute;
+    width: 1000px; /* change according to your game */
+    height: 700px; /* change according to your game */
+    overflow: hidden;
+}
+
+#canvas {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 2500px;
+    height: 2500px;
+    background-image: url("../images/background.png");
+   
+}
+
+.start-screen {
+    position: absolute;
+    width: 3000px;
+    height: auto;
+    top: 0;
+    left: 0;
+    background-image: url("../images/start_screen_new.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.start-screen #startBackground{
+    position: absolute;
+    width: 1000px;
+    height: 700px;
+    top: 0;
+    left: 0;
+    background-image: url("../images/start_screen_new.png");
+    background-size: cover;
+    background-position: cover;
+}
+
+.start-button {
+    position: relative;
+    width: 300px;
+    height: auto;
+    top: 450px;
+    left: 400px;
+    
+}
+
+.start-button:hover {
+    width: 310px;
+    height: auto;
+    cursor: pointer;
+}
+
+.end-screen {
+    position: absolute;
+    width: 3000px;
+    height: auto;
+    background-image: url("../images/game_over_screen.png");
+    background-size: cover;
+    background-position: center;
+    display: none;
+}
+
+.end-screen #gameOverScreen{
+    position: absolute;
+    width: 1000px;
+    height: 800px;
+    background-image: url("../images/game_over_screen.png");
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.restart-button {
+    position: relative;
+    width: 300px;
+    height: auto;
+    top: 450px;
+    left: 350px;
+    
+}
+
+.restart-button:hover {
+    width: 310px;
+    height: auto;
+    cursor: pointer;
+}
+
+.health-display {
+    width: 100px;
+    height:auto;
+    top: 200px; 
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#hearts {
+    width: 150px;
+}
+
+.win-screen {
+    position: absolute;
+    width: 3000px;
+    height: auto;
+    top: 0;
+    left: 0;
+   
+    background-size: cover;
+    background-position: center;
+    display: none;
+}
+
+
+
+#winning {
+    position: absolute;
+    width: 1000px;
+    height: 700px;
+}
