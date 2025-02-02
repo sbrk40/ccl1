@@ -5,7 +5,7 @@ ______________________________
 ______________________________
 Main screen:
 ![Screenshot 2025-01-23 173353](https://github.com/user-attachments/assets/4e93f730-b0d6-46d2-8521-b6c5776007ec)
-Example of the gameplay. You can see the layout of the game, the map, the player character and the enemies.
+Example of the gameplay. You can see the layout of the game, the map, the player character and the enemies. 
 ______________________________
 Menu/start screen:
 ![Screenshot 2025-01-23 173214](https://github.com/user-attachments/assets/29c280b0-fa52-45a0-a754-e459333d6954)
